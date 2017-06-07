@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{12927DBA-A90F-4631-BF0A-A31780351242}</ProjectGuid>
+    <ProjectGuid>{97C17485-7423-4FF8-B7B4-04F1BF0D43A8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Example11</RootNamespace>
-    <AssemblyName>Example11</AssemblyName>
+    <RootNamespace>kadai5</RootNamespace>
+    <AssemblyName>kadai5</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
